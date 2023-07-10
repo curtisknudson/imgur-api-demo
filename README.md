@@ -4,6 +4,12 @@ yarn install
 ```
 yarn run dev
 ```
+
+```
+pages/api/imgur
+
+replace clientId with your own clientId from Imgur
+```
 ```
 send `POST` request to http://localhost:3000/api/imgur
 ```
