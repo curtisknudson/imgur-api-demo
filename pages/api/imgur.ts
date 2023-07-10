@@ -5,7 +5,7 @@ export default async function handler(
   req: NextApiRequest,
   res: NextApiResponse
 ) {
-  const clientId = "9b8d5c3374259e6";
+  const clientId = `{{your client id}}`;
 
   const { image } = req.body;
 
